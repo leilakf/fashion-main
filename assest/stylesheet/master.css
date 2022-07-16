@@ -155,8 +155,8 @@
 
         #banner>section>div:nth-of-type(3)>section {
             /* border: 2px solid red; */
-            width: 50%;
-            height: 40%;
+            width: 60%;
+            height: 50%;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -165,14 +165,14 @@
         }
 
         #banner>section>div:nth-of-type(3)>section>h5 {
-            font-size: 14px;
+            font-size: 16px;
             /* background-color: aqua; */
             display: flex;
             justify-content: start;
             width: 100%;
             font-weight: bold;
             color: white;
-            padding: 0 8px;
+            padding: 0 10px;
         }
 
         #banner>section>div:nth-of-type(3)>section>span:nth-of-type(1) {
